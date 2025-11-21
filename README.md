@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mohammed Rayan
 
-<!--
-**MhmdRayanm7/MhmdRayanM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Practical Software Engineer
 
-Here are some ideas to get you started:
+Practical software engineer studfent for now... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+<div align="left">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+
+</div>
+
+
+---
+
+
+## About Me
+- Practical Software Engineering student   
+- Interested in backend , fornend development, networking, and testing  
+- Focused on creating high-quality, maintainable software  
+
+---
+
+## Contact
+- Email: m7mddotm7@gmail.com  
+- LinkedIn: (https://www.linkedin.com/in/mhmd-rayan-a73465320/) 
+- GitHub: https://github.com/MhmdRayanM7
+
+---
+
