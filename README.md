@@ -24,7 +24,7 @@ Practical software engineer studfent for now...
 
 ## About Me
 - Practical Software Engineering student   
-- Interested in backend , fornend development, networking, and testing  
+- Interested in backend , forntend development, networking, and testing  
 - Focused on creating high-quality, maintainable software  
 
 ---
