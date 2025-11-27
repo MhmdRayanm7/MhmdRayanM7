@@ -35,4 +35,6 @@ Practical software engineer studfent for now...
 - GitHub: https://github.com/MhmdRayanM7
 
 ---
-
+---
+## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdRayanM7d&size_weight=0.5&count_weight=0.5)
