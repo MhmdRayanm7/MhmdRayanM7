@@ -1,6 +1,8 @@
+
+
 # Mohammed Rayan
 
-## Practical Software Engineer
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Practical+Software+Engineer&center=false&width=800&height=45)
 
 Practical software engineer student for now...
 
