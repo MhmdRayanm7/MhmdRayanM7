@@ -16,16 +16,14 @@ Practical software engineer student for now...
   <img src="https://skillicons.dev/icons?i=cpp" height="48" />
   <img src="https://skillicons.dev/icons?i=html" height="48" />
   <img src="https://skillicons.dev/icons?i=css" height="48" />
-  <img src="https://skillicons.dev/icons?i=sql" height="48" />
 
   <br/>
 
-  <!-- Frameworks / Tools -->
+  <!-- Frameworks / Tools / OS / DB -->
   <img src="https://skillicons.dev/icons?i=react" height="48" />
-  <img src="https://skillicons.dev/icons?i=azure" height="48" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" />
-  <img src="https://skillicons.dev/icons?i=phpmyadmin" height="48" />
-  <img src="https://skillicons.dev/icons?i=cisco" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
 
 </div>
 
