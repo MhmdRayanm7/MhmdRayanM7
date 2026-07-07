@@ -45,5 +45,8 @@ Practical software engineer student for now...
 - GitHub: https://github.com/MhmdRayanM7  
 
 ---
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MhmdRayanM7)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhmdRayanM7)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MhmdRayanm7&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MhmdRayanm7&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MhmdRayanm7&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
