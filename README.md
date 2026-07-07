@@ -30,7 +30,6 @@ Practical software engineer student for now...
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="48" alt="Neo4j" />
 
 </div>
 
