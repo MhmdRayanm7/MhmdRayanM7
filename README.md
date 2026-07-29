@@ -5,13 +5,7 @@
 <br />
 
 <div align="center">
-<p align="center">
-  <a href="https://github.com/MhmdRayanm7">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=538&text=Mohammed%20Rayan" alt="Mohammed Rayan" />
-  </a>
-</p>
 
-### Software Developer  
 &gt; Building reliable software and continuously improving my development skills.  
 ## About Me  
 - Software Developer focused on backend development  
