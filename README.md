@@ -11,9 +11,6 @@
   </a>
 </p>
 
-### About Me
-
-# Mohammed Rayan  
 ### Software Developer  
 &gt; Building reliable software and continuously improving my development skills.  
 ## About Me  
