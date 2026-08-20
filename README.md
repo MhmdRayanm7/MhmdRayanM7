@@ -225,14 +225,6 @@ I’m building a broad software engineering foundation around the way real syste
 <br/>
 
 <p align="center">
-  <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MhmdRayanm7&bg_color=0D1117&color=58A6FF&line=2EA043&point=FFFFFF&area=true&area_color=238636&hide_border=true"
-    alt="Contribution activity graph"
-  />
-</p>
-
-<p align="center">
   <sub>My development activity over time</sub>
 </p>
 
