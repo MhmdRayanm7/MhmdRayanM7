@@ -14,20 +14,6 @@
 
 <br />
 
----
-
-## About Me
-
-I learn best by building software, experimenting with ideas, debugging what breaks, and understanding why systems behave the way they do.
-
-My main direction is backend development, while I continue building a broader software engineering foundation across databases, cloud, networking, testing, architecture, and frontend development.
-
-I’m interested in becoming better at **designing, structuring, testing, debugging, and reasoning about software**, not just collecting frameworks or tools.
-
-<br />
-
----
-
 ## Tech Stack
 
 <sub>Technologies I have learned and worked with.</sub>
