@@ -1,0 +1,97 @@
+<svg width="820" height="250" viewBox="0 0 820 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#238636"/>
+      <stop offset="50%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#238636"/>
+      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#58A6FF" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- main panel -->
+  <rect width="820" height="250" rx="18" fill="url(#panel)"/>
+  <rect width="820" height="250" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="818" height="248" rx="17" fill="none" stroke="url(#accent)" stroke-opacity=".7"/>
+
+  <!-- top bar -->
+  <rect x="0" y="0" width="820" height="44" rx="18" fill="#161B22"/>
+  <rect x="0" y="28" width="820" height="16" fill="#161B22"/>
+
+  <circle cx="26" cy="22" r="6" fill="#FF5F56"/>
+  <circle cx="47" cy="22" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="22" r="6" fill="#27C93F"/>
+
+  <text x="410" y="27" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="12">
+    SYSTEM PROFILE // MOHAMMED_RAYAN
+  </text>
+
+  <!-- left identity block -->
+  <text x="34" y="82" fill="#2EA043" font-family="monospace" font-size="13">IDENTITY</text>
+  <text x="34" y="108" fill="#F0F6FC" font-family="monospace" font-size="18" font-weight="700">
+    SOFTWARE ENGINEER
+  </text>
+  <text x="34" y="132" fill="#58A6FF" font-family="monospace" font-size="15">
+    BACKEND-FOCUSED
+  </text>
+
+  <!-- animated divider -->
+  <rect x="34" y="151" width="355" height="2" rx="1" fill="#21262D"/>
+  <rect x="34" y="151" width="0" height="2" rx="1" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="width" values="0;355;355" keyTimes="0;0.65;1" dur="2.6s" fill="freeze"/>
+  </rect>
+
+  <text x="34" y="180" fill="#8B949E" font-family="monospace" font-size="13">
+    MODE
+  </text>
+  <text x="96" y="180" fill="#C9D1D9" font-family="monospace" font-size="13">
+    BUILDING • LEARNING • IMPROVING
+  </text>
+
+  <text x="34" y="205" fill="#8B949E" font-family="monospace" font-size="13">
+    FOCUS
+  </text>
+  <text x="96" y="205" fill="#C9D1D9" font-family="monospace" font-size="13">
+    SYSTEMS • DATA • CLOUD • WEB
+  </text>
+
+  <!-- right status block -->
+  <rect x="500" y="72" width="278" height="132" rx="14" fill="#0D1117" stroke="#30363D"/>
+
+  <text x="524" y="101" fill="#8B949E" font-family="monospace" font-size="12">CURRENT STATUS</text>
+
+  <circle cx="531" cy="128" r="5" fill="#2EA043" filter="url(#glow)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="546" y="133" fill="#F0F6FC" font-family="monospace" font-size="14">ACTIVE / LEARNING</text>
+
+  <text x="524" y="164" fill="#58A6FF" font-family="monospace" font-size="13">
+    next: build something better
+  </text>
+
+  <text x="524" y="188" fill="#2EA043" font-family="monospace" font-size="13">
+    status: progress in motion
+  </text>
+
+  <!-- scanning light -->
+  <rect x="-180" y="44" width="180" height="206" fill="url(#accent)" opacity=".035">
+    <animate attributeName="x" values="-180;820" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
