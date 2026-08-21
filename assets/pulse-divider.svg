@@ -1,8 +1,0 @@
-<svg width="900" height="20" viewBox="0 0 900 20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#0D1117"/><stop offset="25%" stop-color="#238636"/><stop offset="50%" stop-color="#0969DA"/><stop offset="75%" stop-color="#238636"/><stop offset="100%" stop-color="#0D1117"/></linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="2"/></filter>
-  </defs>
-  <line x1="0" y1="10" x2="900" y2="10" stroke="#21262D" stroke-width="1"/>
-  <rect x="-180" y="8" width="180" height="4" rx="2" fill="url(#g)" opacity=".9" filter="url(#glow)"><animate attributeName="x" values="-180;900" dur="4.8s" repeatCount="indefinite"/></rect>
-</svg>
