@@ -110,19 +110,6 @@
 
 <br />
 
-
----
-
-## Engineering Knowledge
-
-<p align="center">
-  <img width="760" src="assets/system-flow.svg" alt="Animated system flow" />
-</p>
-
-I’m building a broad software engineering foundation that goes beyond individual frameworks. My experience includes API design, authentication, validation, error handling, file uploads, WebSockets, database design, SQL, migrations, indexing, transactions, testing, debugging, Object-Oriented Programming, Functional Programming, Data Structures & Algorithms, clean code, design patterns, and software architecture. I’ve also studied the fundamentals behind web systems — including HTTP/HTTPS, TCP/IP, DNS, ports, client-server communication, cookies, and headers — while gradually expanding into Linux, Docker, cloud platforms, deployment workflows, CI/CD, and object storage. The goal is to understand how the pieces connect and make better engineering decisions as the systems I build become larger and more realistic.
-
-<br />
-
 ---
 
 ## GitHub
