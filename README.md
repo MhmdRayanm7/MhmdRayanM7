@@ -1,11 +1,7 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,35:0D1117,68:0969DA,100:238636&height=190&section=header&text=Mohammed%20Rayan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,35:0D1117,68:0969DA,100:238636&height=190&section=header&text=Mohammed%20Rayan&fontSize=48&fontColor=FFFFFF&fontAlignY=40"
 />
-
-<p align="center">
-  <img width="820" src="assets/terminal.svg" alt="Animated developer terminal" />
-</p>
 
 <p align="center">
   Software engineering student and self-learner who improves through hands-on projects,
@@ -43,6 +39,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
 </td>
 </tr>
@@ -51,9 +49,12 @@
 <td><strong>Backend</strong></td>
 <td>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/>
   <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=111111" alt="Drizzle ORM"/>
+  <img src="https://img.shields.io/badge/Kysely-0D1117?style=flat-square&logoColor=white" alt="Kysely"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat-square&logoColor=white" alt="Better Auth"/>
   <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=2EA043" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </td>
@@ -78,6 +79,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages"/>
+  <img src="https://img.shields.io/badge/Northflank-0D1117?style=flat-square&logoColor=white" alt="Northflank"/>
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </td>
 </tr>
@@ -92,7 +96,11 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo"/>
+  <img src="https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white" alt="Biome"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Testcontainers-0D1117?style=flat-square&logo=testcontainers&logoColor=white" alt="Testcontainers"/>
 </td>
 </tr>
 
@@ -108,6 +116,22 @@
 </td>
 </tr>
 </table>
+
+<br />
+
+---
+
+## Projects
+
+### [Schedlane](https://github.com/MhmdRayanm7/schedlane)
+
+A deployed full-stack appointment scheduling platform with public booking, organization workspaces, and platform administration.  
+Prevents overlapping bookings with serializable PostgreSQL transactions and database constraints, while enforcing tenant isolation and role-based access.  
+Delivers booking events and transactional emails through a transactional outbox, RabbitMQ, and retry-safe background workers.
+
+**React · TypeScript · Fastify · PostgreSQL · RabbitMQ · Docker**
+
+[Live App](https://schedlane.pages.dev) · [Booking Demo](https://schedlane.pages.dev/book/demo-barbers) · [Source Code](https://github.com/MhmdRayanm7/schedlane)
 
 <br />
 
@@ -147,12 +171,8 @@ I enjoy learning from other developers, discovering new ideas, and connecting wi
 
 <br />
 
-<p align="center">
-  <img width="720" src="assets/dev-loop.svg" alt="Animated development loop" />
-</p>
-
-
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,35:0969DA,70:0D1117,100:02040A&height=135&section=footer"
 />
+
