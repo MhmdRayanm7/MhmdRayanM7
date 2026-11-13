@@ -176,3 +176,4 @@ I enjoy learning from other developers, discovering new ideas, and connecting wi
   src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,35:0969DA,70:0D1117,100:02040A&height=135&section=footer"
 />
 
+---
